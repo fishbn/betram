@@ -1,0 +1,34 @@
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe.config
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\WebDriver.dll
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\WebDriver.xml
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\phantomjs.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\phantomjs-license.txt
+C:\Users\Maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\phantomjs.exe
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\phantomjs-license.txt
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\WebDriver.dll
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\WebDriver.xml
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\WebDriver.dll
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\WebDriver.xml
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
