@@ -1,0 +1,60 @@
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe.config
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\WebDriver.dll
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\WebDriver.xml
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\phantomjs.exe
+c:\users\maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\phantomjs-license.txt
+C:\Users\Maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maksim\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\phantomjs.exe
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\phantomjs-license.txt
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\WebDriver.dll
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Parser\Parser\bin\Debug\WebDriver.xml
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Максим\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\WebDriver.dll
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maksim\Desktop\Parser\Parser\bin\Debug\WebDriver.xml
+C:\Users\Maksim\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+D:\betram\betram\Parser\Parser\bin\Debug\Parser.exe.config
+D:\betram\betram\Parser\Parser\obj\Debug\Parser.exe
+D:\betram\betram\Parser\Parser\obj\Debug\Parser.pdb
+D:\betram\betram\Parser\Parser\bin\Debug\Parser.exe
+D:\betram\betram\Parser\Parser\bin\Debug\Parser.pdb
+D:\betram\betram\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+D:\betram\betram\Parser\Parser\bin\Debug\WebDriver.dll
+D:\betram\betram\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+D:\betram\betram\Parser\Parser\bin\Debug\WebDriver.xml
+D:\betram\betram\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Bson.dll
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Driver.Core.dll
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Driver.dll
+D:\betram\betram\Parser\Parser\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Bson.xml
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Driver.xml
+D:\betram\betram\Parser\Parser\bin\Debug\MongoDB.Driver.Core.xml
+D:\betram\betram\Parser\Parser\bin\Debug\HtmlAgilityPack.dll
+D:\betram\betram\Parser\Parser\bin\Debug\HtmlAgilityPack.pdb
+D:\betram\betram\Parser\Parser\bin\Debug\HtmlAgilityPack.xml
+D:\betram\betram\Parser\Parser\bin\Debug\Fizzler.dll
+D:\betram\betram\Parser\Parser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+D:\betram\betram\Parser\Parser\bin\Debug\Fizzler.xml
+D:\betram\betram\Parser\Parser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+D:\betram\betram\Parser\Parser\bin\Debug\AngleSharp.dll
+D:\betram\betram\Parser\Parser\bin\Debug\AngleSharp.xml
