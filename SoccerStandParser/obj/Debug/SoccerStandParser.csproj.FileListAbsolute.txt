@@ -1,0 +1,8 @@
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\bin\Debug\SoccerStandParser.exe.config
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\obj\Debug\SoccerStandParser.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\bin\Debug\SoccerStandParser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\bin\Debug\SoccerStandParser.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\bin\Debug\WebDriver.dll
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\bin\Debug\WebDriver.xml
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\obj\Debug\SoccerStandParser.exe
+c:\users\maksim\documents\visual studio 2015\Projects\SoccerStandParser\SoccerStandParser\obj\Debug\SoccerStandParser.pdb
