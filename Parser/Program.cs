@@ -34,13 +34,16 @@ namespace Parser
 
                 //File.AppendAllText("C:\\scores\\" + date + ".txt", res.OuterHtml);
 
-                var connectionString = "mongodb://fishbonebeats:116116qwerty@ds038319.mlab.com:38319/betram";
+                var connectionString = "mongodb://admin:admin123@ds038319.mlab.com:38319/betram";
 
-                var client = new MongoClient();
+                var client = new MongoClient(connectionString);
 
-                var db = client.GetDatabase(connectionString);
+                var db = client.GetDatabase("betram");
 
-                
+                var collection = db.GetCollection<ModelObject>("parimatch_htmls");
+
+                collection.InsertOne(new ModelObject("20170423", "html code"));
+
                 //driver.Navigate().GoToUrl(url);
 
                 //var allTables = driver.FindElements(By.CssSelector("#f1 > div"));                           // Выгружаем в переменную все таблицы страницы
